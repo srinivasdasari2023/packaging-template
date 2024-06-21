@@ -1,4 +1,5 @@
 # python template (UPDATE THIS WITH ORIGINAL DOCUMENTATION RELATED INFORMATION LATER)
+
 ## Instruction on how to use this template?
 
  
@@ -11,8 +12,10 @@ by choosing this as a project template while creating a new repository
 
 ### STEP 02: Clone the new repository or use codespaces
 
--  
-    ```
+- To clone you can use the following command - 
+    ```bash
+    git clone https://github.com/xxx
+    
     NOTE: update the repo-name here
 
 - Click on create code spaces or select available codespaces.
